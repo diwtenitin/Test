@@ -1,0 +1,6 @@
+<sharedlibraries>
+<sharedlibrary>
+<groupId>com.mycompany</groupId>
+<artifactId>sys-api-customers</artifactId>
+</sharedlibrary>
+</sharedlibraries>
